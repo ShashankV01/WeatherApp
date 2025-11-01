@@ -1,6 +1,8 @@
 #Weather App
 
 A modern, web-based weather analytics application that provides real-time weather data, forecasts, and interactive visualizations for multiple cities. It offers users an intuitive and visually appealing dashboard to explore current conditions, forecasts, and historical weather trends with live updates and smooth interactivity.
+<img width="1539" height="1027" alt="Dashboard_screenshot" src="https://github.com/user-attachments/assets/ce061d63-5869-476f-ba17-7a1c1d2c134b" />
+
 
 Project Overview:
 The Weather Analytics Dashboard is built to simplify how users access and analyze weather information.
@@ -55,3 +57,4 @@ Tech Stack:
 | Data Handling          | Axios (async API calls), localStorage caching |
 | Build Tool             | Vite / Create React App                       |
 | Version Control        | Git & GitHub                                  |
+
